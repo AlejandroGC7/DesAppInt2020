@@ -14,7 +14,7 @@ namespace p03_AreaTriangulo
             Console.WriteLine("Dame la altura:"); alturaT = float.Parse(Console.ReadLine());
 
             areaT = baseT * alturaT / 2;
-            Console.WriteLine($"Un triangulo de base {baseT} y altura {alturaT} tiene un area de {areaT}");
+            Console.WriteLine($"Un triangulo de base {baseT} y altura {alturaT}, tiene un area de {areaT}");
         }
     }
 }
