@@ -21,7 +21,7 @@ namespace p04_PagaTrabajador
 
             pagabruta = horas * paga;
             impuesto = pagabruta * tasa;
-            paganeta = pagabruta -impuesto;
+            paganeta = pagabruta - impuesto;
 
             Console.WriteLine($"El trabajador de nombre {nombre}");
             Console.WriteLine($"Trabajo {horas} horas");
