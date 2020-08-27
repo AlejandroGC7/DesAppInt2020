@@ -1,0 +1,13 @@
+C:\Users\Alejandro\Documents\ProyectosDAI\p02_AreaCirculo\bin\Debug\netcoreapp3.1\p02_AreaCirculo.exe
+C:\Users\Alejandro\Documents\ProyectosDAI\p02_AreaCirculo\bin\Debug\netcoreapp3.1\p02_AreaCirculo.deps.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p02_AreaCirculo\bin\Debug\netcoreapp3.1\p02_AreaCirculo.runtimeconfig.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p02_AreaCirculo\bin\Debug\netcoreapp3.1\p02_AreaCirculo.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p02_AreaCirculo\bin\Debug\netcoreapp3.1\p02_AreaCirculo.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p02_AreaCirculo\bin\Debug\netcoreapp3.1\p02_AreaCirculo.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p02_AreaCirculo\obj\Debug\netcoreapp3.1\p02_AreaCirculo.csprojAssemblyReference.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p02_AreaCirculo\obj\Debug\netcoreapp3.1\p02_AreaCirculo.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p02_AreaCirculo\obj\Debug\netcoreapp3.1\p02_AreaCirculo.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\ProyectosDAI\p02_AreaCirculo\obj\Debug\netcoreapp3.1\p02_AreaCirculo.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p02_AreaCirculo\obj\Debug\netcoreapp3.1\p02_AreaCirculo.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p02_AreaCirculo\obj\Debug\netcoreapp3.1\p02_AreaCirculo.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p02_AreaCirculo\obj\Debug\netcoreapp3.1\p02_AreaCirculo.genruntimeconfig.cache

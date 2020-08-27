@@ -1,0 +1,13 @@
+C:\Users\Alejandro\Documents\ProyectosDAI\p04_PagaTrabajador\bin\Debug\netcoreapp3.1\p04_PagaTrabajador.exe
+C:\Users\Alejandro\Documents\ProyectosDAI\p04_PagaTrabajador\bin\Debug\netcoreapp3.1\p04_PagaTrabajador.deps.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p04_PagaTrabajador\bin\Debug\netcoreapp3.1\p04_PagaTrabajador.runtimeconfig.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p04_PagaTrabajador\bin\Debug\netcoreapp3.1\p04_PagaTrabajador.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p04_PagaTrabajador\bin\Debug\netcoreapp3.1\p04_PagaTrabajador.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p04_PagaTrabajador\bin\Debug\netcoreapp3.1\p04_PagaTrabajador.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p04_PagaTrabajador\obj\Debug\netcoreapp3.1\p04_PagaTrabajador.csprojAssemblyReference.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p04_PagaTrabajador\obj\Debug\netcoreapp3.1\p04_PagaTrabajador.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p04_PagaTrabajador\obj\Debug\netcoreapp3.1\p04_PagaTrabajador.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\ProyectosDAI\p04_PagaTrabajador\obj\Debug\netcoreapp3.1\p04_PagaTrabajador.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p04_PagaTrabajador\obj\Debug\netcoreapp3.1\p04_PagaTrabajador.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p04_PagaTrabajador\obj\Debug\netcoreapp3.1\p04_PagaTrabajador.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p04_PagaTrabajador\obj\Debug\netcoreapp3.1\p04_PagaTrabajador.genruntimeconfig.cache

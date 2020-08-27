@@ -1,0 +1,13 @@
+C:\Users\Alejandro\Documents\ProyectosDAI\p03_AreaTriangulo\bin\Debug\netcoreapp3.1\p03_AreaTriangulo.exe
+C:\Users\Alejandro\Documents\ProyectosDAI\p03_AreaTriangulo\bin\Debug\netcoreapp3.1\p03_AreaTriangulo.deps.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p03_AreaTriangulo\bin\Debug\netcoreapp3.1\p03_AreaTriangulo.runtimeconfig.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p03_AreaTriangulo\bin\Debug\netcoreapp3.1\p03_AreaTriangulo.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p03_AreaTriangulo\bin\Debug\netcoreapp3.1\p03_AreaTriangulo.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p03_AreaTriangulo\bin\Debug\netcoreapp3.1\p03_AreaTriangulo.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p03_AreaTriangulo\obj\Debug\netcoreapp3.1\p03_AreaTriangulo.csprojAssemblyReference.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p03_AreaTriangulo\obj\Debug\netcoreapp3.1\p03_AreaTriangulo.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p03_AreaTriangulo\obj\Debug\netcoreapp3.1\p03_AreaTriangulo.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\ProyectosDAI\p03_AreaTriangulo\obj\Debug\netcoreapp3.1\p03_AreaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p03_AreaTriangulo\obj\Debug\netcoreapp3.1\p03_AreaTriangulo.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p03_AreaTriangulo\obj\Debug\netcoreapp3.1\p03_AreaTriangulo.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p03_AreaTriangulo\obj\Debug\netcoreapp3.1\p03_AreaTriangulo.genruntimeconfig.cache
