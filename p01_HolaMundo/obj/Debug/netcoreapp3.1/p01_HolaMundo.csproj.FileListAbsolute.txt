@@ -1,0 +1,13 @@
+C:\Users\Alejandro\Documents\ProyectosDAI\p01_HolaMundo\bin\Debug\netcoreapp3.1\p01_HolaMundo.exe
+C:\Users\Alejandro\Documents\ProyectosDAI\p01_HolaMundo\bin\Debug\netcoreapp3.1\p01_HolaMundo.deps.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p01_HolaMundo\bin\Debug\netcoreapp3.1\p01_HolaMundo.runtimeconfig.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p01_HolaMundo\bin\Debug\netcoreapp3.1\p01_HolaMundo.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p01_HolaMundo\bin\Debug\netcoreapp3.1\p01_HolaMundo.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p01_HolaMundo\bin\Debug\netcoreapp3.1\p01_HolaMundo.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p01_HolaMundo\obj\Debug\netcoreapp3.1\p01_HolaMundo.csprojAssemblyReference.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p01_HolaMundo\obj\Debug\netcoreapp3.1\p01_HolaMundo.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p01_HolaMundo\obj\Debug\netcoreapp3.1\p01_HolaMundo.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\ProyectosDAI\p01_HolaMundo\obj\Debug\netcoreapp3.1\p01_HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p01_HolaMundo\obj\Debug\netcoreapp3.1\p01_HolaMundo.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p01_HolaMundo\obj\Debug\netcoreapp3.1\p01_HolaMundo.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p01_HolaMundo\obj\Debug\netcoreapp3.1\p01_HolaMundo.genruntimeconfig.cache
