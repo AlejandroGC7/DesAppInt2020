@@ -29,7 +29,7 @@ namespace p04_PagaTrabajador
             Console.WriteLine($"Por lo cual recibe una paga bruta de {pagabruta} pesos");
             Console.WriteLine($"Esto genera un impuesto de {impuesto} pesos");
             Console.WriteLine($"Al final llega a su casa con la miserable cantidad de {paganeta} pesos");
-            
+
         }
     }
 }
