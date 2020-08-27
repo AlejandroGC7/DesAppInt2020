@@ -14,7 +14,7 @@ namespace p02_AreaCirculo
             radio = float.Parse(Console.ReadLine());
             area = Math.PI * Math.Pow(radio,2);
 
-            Console.WriteLine($"El area es {area}");
+            Console.WriteLine($"El area del circulo es {area}");
 
         }
     }
