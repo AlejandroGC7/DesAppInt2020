@@ -6,7 +6,9 @@ namespace p01_HolaMundo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hola mundo!");
+            Console.WriteLine("cruel");
+            Console.WriteLine("Vamos bien");
         }
     }
 }
