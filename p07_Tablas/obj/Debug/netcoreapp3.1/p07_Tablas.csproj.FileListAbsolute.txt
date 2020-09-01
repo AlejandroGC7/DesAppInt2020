@@ -1,0 +1,13 @@
+C:\Users\Alejandro\Documents\ProyectosDAI\p07_Tablas\obj\Debug\netcoreapp3.1\p07_Tablas.csprojAssemblyReference.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p07_Tablas\obj\Debug\netcoreapp3.1\p07_Tablas.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p07_Tablas\obj\Debug\netcoreapp3.1\p07_Tablas.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\ProyectosDAI\p07_Tablas\obj\Debug\netcoreapp3.1\p07_Tablas.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p07_Tablas\bin\Debug\netcoreapp3.1\p07_Tablas.exe
+C:\Users\Alejandro\Documents\ProyectosDAI\p07_Tablas\bin\Debug\netcoreapp3.1\p07_Tablas.deps.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p07_Tablas\bin\Debug\netcoreapp3.1\p07_Tablas.runtimeconfig.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p07_Tablas\bin\Debug\netcoreapp3.1\p07_Tablas.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p07_Tablas\bin\Debug\netcoreapp3.1\p07_Tablas.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p07_Tablas\bin\Debug\netcoreapp3.1\p07_Tablas.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p07_Tablas\obj\Debug\netcoreapp3.1\p07_Tablas.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p07_Tablas\obj\Debug\netcoreapp3.1\p07_Tablas.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p07_Tablas\obj\Debug\netcoreapp3.1\p07_Tablas.genruntimeconfig.cache

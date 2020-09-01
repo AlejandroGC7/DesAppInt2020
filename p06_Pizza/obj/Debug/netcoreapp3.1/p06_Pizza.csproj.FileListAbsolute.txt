@@ -1,0 +1,13 @@
+C:\Users\Alejandro\Documents\ProyectosDAI\p06_Pizza\bin\Debug\netcoreapp3.1\p06_Pizza.exe
+C:\Users\Alejandro\Documents\ProyectosDAI\p06_Pizza\bin\Debug\netcoreapp3.1\p06_Pizza.deps.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p06_Pizza\bin\Debug\netcoreapp3.1\p06_Pizza.runtimeconfig.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p06_Pizza\bin\Debug\netcoreapp3.1\p06_Pizza.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p06_Pizza\bin\Debug\netcoreapp3.1\p06_Pizza.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p06_Pizza\bin\Debug\netcoreapp3.1\p06_Pizza.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p06_Pizza\obj\Debug\netcoreapp3.1\p06_Pizza.csprojAssemblyReference.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p06_Pizza\obj\Debug\netcoreapp3.1\p06_Pizza.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p06_Pizza\obj\Debug\netcoreapp3.1\p06_Pizza.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\ProyectosDAI\p06_Pizza\obj\Debug\netcoreapp3.1\p06_Pizza.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p06_Pizza\obj\Debug\netcoreapp3.1\p06_Pizza.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p06_Pizza\obj\Debug\netcoreapp3.1\p06_Pizza.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p06_Pizza\obj\Debug\netcoreapp3.1\p06_Pizza.genruntimeconfig.cache

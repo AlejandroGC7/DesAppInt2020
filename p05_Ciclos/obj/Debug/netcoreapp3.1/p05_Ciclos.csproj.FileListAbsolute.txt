@@ -1,0 +1,13 @@
+C:\Users\Alejandro\Documents\ProyectosDAI\p05_Ciclos\obj\Debug\netcoreapp3.1\p05_Ciclos.csprojAssemblyReference.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p05_Ciclos\obj\Debug\netcoreapp3.1\p05_Ciclos.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p05_Ciclos\obj\Debug\netcoreapp3.1\p05_Ciclos.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\ProyectosDAI\p05_Ciclos\obj\Debug\netcoreapp3.1\p05_Ciclos.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p05_Ciclos\bin\Debug\netcoreapp3.1\p05_Ciclos.exe
+C:\Users\Alejandro\Documents\ProyectosDAI\p05_Ciclos\bin\Debug\netcoreapp3.1\p05_Ciclos.deps.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p05_Ciclos\bin\Debug\netcoreapp3.1\p05_Ciclos.runtimeconfig.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p05_Ciclos\bin\Debug\netcoreapp3.1\p05_Ciclos.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p05_Ciclos\bin\Debug\netcoreapp3.1\p05_Ciclos.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p05_Ciclos\bin\Debug\netcoreapp3.1\p05_Ciclos.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p05_Ciclos\obj\Debug\netcoreapp3.1\p05_Ciclos.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p05_Ciclos\obj\Debug\netcoreapp3.1\p05_Ciclos.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p05_Ciclos\obj\Debug\netcoreapp3.1\p05_Ciclos.genruntimeconfig.cache
