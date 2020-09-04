@@ -1,0 +1,13 @@
+C:\Users\Alejandro\Documents\ProyectosDAI\p10_VectorCubo\obj\Debug\netcoreapp3.1\p10_VectorCubo.csprojAssemblyReference.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p10_VectorCubo\obj\Debug\netcoreapp3.1\p10_VectorCubo.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p10_VectorCubo\obj\Debug\netcoreapp3.1\p10_VectorCubo.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\ProyectosDAI\p10_VectorCubo\obj\Debug\netcoreapp3.1\p10_VectorCubo.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p10_VectorCubo\bin\Debug\netcoreapp3.1\p10_VectorCubo.exe
+C:\Users\Alejandro\Documents\ProyectosDAI\p10_VectorCubo\bin\Debug\netcoreapp3.1\p10_VectorCubo.deps.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p10_VectorCubo\bin\Debug\netcoreapp3.1\p10_VectorCubo.runtimeconfig.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p10_VectorCubo\bin\Debug\netcoreapp3.1\p10_VectorCubo.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p10_VectorCubo\bin\Debug\netcoreapp3.1\p10_VectorCubo.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p10_VectorCubo\bin\Debug\netcoreapp3.1\p10_VectorCubo.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p10_VectorCubo\obj\Debug\netcoreapp3.1\p10_VectorCubo.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p10_VectorCubo\obj\Debug\netcoreapp3.1\p10_VectorCubo.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p10_VectorCubo\obj\Debug\netcoreapp3.1\p10_VectorCubo.genruntimeconfig.cache

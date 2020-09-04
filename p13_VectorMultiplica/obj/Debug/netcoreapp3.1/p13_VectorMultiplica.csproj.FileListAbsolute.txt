@@ -1,0 +1,13 @@
+C:\Users\Alejandro\Documents\ProyectosDAI\p13_VectorMultiplica\bin\Debug\netcoreapp3.1\p13_VectorMultiplica.exe
+C:\Users\Alejandro\Documents\ProyectosDAI\p13_VectorMultiplica\bin\Debug\netcoreapp3.1\p13_VectorMultiplica.deps.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p13_VectorMultiplica\bin\Debug\netcoreapp3.1\p13_VectorMultiplica.runtimeconfig.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p13_VectorMultiplica\bin\Debug\netcoreapp3.1\p13_VectorMultiplica.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p13_VectorMultiplica\bin\Debug\netcoreapp3.1\p13_VectorMultiplica.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p13_VectorMultiplica\bin\Debug\netcoreapp3.1\p13_VectorMultiplica.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p13_VectorMultiplica\obj\Debug\netcoreapp3.1\p13_VectorMultiplica.csprojAssemblyReference.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p13_VectorMultiplica\obj\Debug\netcoreapp3.1\p13_VectorMultiplica.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p13_VectorMultiplica\obj\Debug\netcoreapp3.1\p13_VectorMultiplica.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\ProyectosDAI\p13_VectorMultiplica\obj\Debug\netcoreapp3.1\p13_VectorMultiplica.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p13_VectorMultiplica\obj\Debug\netcoreapp3.1\p13_VectorMultiplica.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p13_VectorMultiplica\obj\Debug\netcoreapp3.1\p13_VectorMultiplica.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p13_VectorMultiplica\obj\Debug\netcoreapp3.1\p13_VectorMultiplica.genruntimeconfig.cache

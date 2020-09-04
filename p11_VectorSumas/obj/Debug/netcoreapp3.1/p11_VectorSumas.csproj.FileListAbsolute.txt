@@ -1,0 +1,13 @@
+C:\Users\Alejandro\Documents\ProyectosDAI\p11_VectorSumas\bin\Debug\netcoreapp3.1\p11_VectorSumas.exe
+C:\Users\Alejandro\Documents\ProyectosDAI\p11_VectorSumas\bin\Debug\netcoreapp3.1\p11_VectorSumas.deps.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p11_VectorSumas\bin\Debug\netcoreapp3.1\p11_VectorSumas.runtimeconfig.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p11_VectorSumas\bin\Debug\netcoreapp3.1\p11_VectorSumas.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p11_VectorSumas\bin\Debug\netcoreapp3.1\p11_VectorSumas.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p11_VectorSumas\bin\Debug\netcoreapp3.1\p11_VectorSumas.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p11_VectorSumas\obj\Debug\netcoreapp3.1\p11_VectorSumas.csprojAssemblyReference.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p11_VectorSumas\obj\Debug\netcoreapp3.1\p11_VectorSumas.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p11_VectorSumas\obj\Debug\netcoreapp3.1\p11_VectorSumas.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\ProyectosDAI\p11_VectorSumas\obj\Debug\netcoreapp3.1\p11_VectorSumas.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p11_VectorSumas\obj\Debug\netcoreapp3.1\p11_VectorSumas.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p11_VectorSumas\obj\Debug\netcoreapp3.1\p11_VectorSumas.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p11_VectorSumas\obj\Debug\netcoreapp3.1\p11_VectorSumas.genruntimeconfig.cache

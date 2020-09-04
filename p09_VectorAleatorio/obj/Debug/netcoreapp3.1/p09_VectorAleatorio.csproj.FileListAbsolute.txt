@@ -1,0 +1,13 @@
+C:\Users\Alejandro\Documents\ProyectosDAI\p09_VectorAleatorio\obj\Debug\netcoreapp3.1\p09_VectorAleatorio.csprojAssemblyReference.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p09_VectorAleatorio\obj\Debug\netcoreapp3.1\p09_VectorAleatorio.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p09_VectorAleatorio\obj\Debug\netcoreapp3.1\p09_VectorAleatorio.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\ProyectosDAI\p09_VectorAleatorio\obj\Debug\netcoreapp3.1\p09_VectorAleatorio.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p09_VectorAleatorio\bin\Debug\netcoreapp3.1\p09_VectorAleatorio.exe
+C:\Users\Alejandro\Documents\ProyectosDAI\p09_VectorAleatorio\bin\Debug\netcoreapp3.1\p09_VectorAleatorio.deps.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p09_VectorAleatorio\bin\Debug\netcoreapp3.1\p09_VectorAleatorio.runtimeconfig.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p09_VectorAleatorio\bin\Debug\netcoreapp3.1\p09_VectorAleatorio.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p09_VectorAleatorio\bin\Debug\netcoreapp3.1\p09_VectorAleatorio.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p09_VectorAleatorio\bin\Debug\netcoreapp3.1\p09_VectorAleatorio.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p09_VectorAleatorio\obj\Debug\netcoreapp3.1\p09_VectorAleatorio.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p09_VectorAleatorio\obj\Debug\netcoreapp3.1\p09_VectorAleatorio.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p09_VectorAleatorio\obj\Debug\netcoreapp3.1\p09_VectorAleatorio.genruntimeconfig.cache

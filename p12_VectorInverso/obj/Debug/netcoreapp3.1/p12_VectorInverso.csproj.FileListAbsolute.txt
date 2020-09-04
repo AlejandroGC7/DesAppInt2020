@@ -1,0 +1,13 @@
+C:\Users\Alejandro\Documents\ProyectosDAI\p12_VectorInverso\obj\Debug\netcoreapp3.1\p12_VectorInverso.csprojAssemblyReference.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p12_VectorInverso\obj\Debug\netcoreapp3.1\p12_VectorInverso.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p12_VectorInverso\obj\Debug\netcoreapp3.1\p12_VectorInverso.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\ProyectosDAI\p12_VectorInverso\obj\Debug\netcoreapp3.1\p12_VectorInverso.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p12_VectorInverso\bin\Debug\netcoreapp3.1\p12_VectorInverso.exe
+C:\Users\Alejandro\Documents\ProyectosDAI\p12_VectorInverso\bin\Debug\netcoreapp3.1\p12_VectorInverso.deps.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p12_VectorInverso\bin\Debug\netcoreapp3.1\p12_VectorInverso.runtimeconfig.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p12_VectorInverso\bin\Debug\netcoreapp3.1\p12_VectorInverso.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p12_VectorInverso\bin\Debug\netcoreapp3.1\p12_VectorInverso.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p12_VectorInverso\bin\Debug\netcoreapp3.1\p12_VectorInverso.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p12_VectorInverso\obj\Debug\netcoreapp3.1\p12_VectorInverso.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p12_VectorInverso\obj\Debug\netcoreapp3.1\p12_VectorInverso.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p12_VectorInverso\obj\Debug\netcoreapp3.1\p12_VectorInverso.genruntimeconfig.cache
