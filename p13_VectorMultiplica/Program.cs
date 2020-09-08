@@ -13,11 +13,14 @@ namespace p13_VectorMultiplica
     {
         static void Main(string[] args)
         {
-           int[] A = {2,5,10,2,8,4,1,3,7,8};
-           int[] B = {4,7,1,2,9,8,6,4,20,5};
-           const int arreglo = 10;
-           int[] C = new int[arreglo];
+            const int arreglo = 10;
+            double[] A = new double[arreglo];
+            double[] B = new double[arreglo];
+            double[] C = new double[arreglo];
 
+            Console.WriteLine("\nIngresa los elementos A[]"); LeerArreglo(A);
+            Console.WriteLine("\nIngresa los elementos B[]"); LeerArreglo(B);
+            
             // La siguiente línea invierte el arreglo:
             Array.Reverse(B);
             
@@ -30,6 +33,12 @@ namespace p13_VectorMultiplica
                 Console.WriteLine($"|\t{A[i]} \tX \t{B[i]} \t= \t{C[i]} \t|");
             }
             Console.WriteLine("=================================================");
+        }
+        static void LeerArreglo(double[] v){
+            for(int i=0; i<v.Length; i++){
+                Console.Write($"Elemento [{i}]:");
+                v[i] = double.Parse(Console.ReadLine());
+            }
         }
     }
 }

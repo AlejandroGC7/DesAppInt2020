@@ -32,7 +32,7 @@ namespace p13_VectorMultiplicaClase
 
         static void LeerArreglo(double[] v){
             for(int i=0; i<v.Length; i++){
-                Console.Write($"Elemento A[{i}]:");
+                Console.Write($"Elemento [{i}]:");
                 v[i] = double.Parse(Console.ReadLine());
             }
         }
