@@ -1,0 +1,13 @@
+C:\Users\Alejandro\Documents\ProyectosDAI\p08_VectorPromedioClase\bin\Debug\netcoreapp3.1\p08_VectorPromedioClase.exe
+C:\Users\Alejandro\Documents\ProyectosDAI\p08_VectorPromedioClase\bin\Debug\netcoreapp3.1\p08_VectorPromedioClase.deps.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p08_VectorPromedioClase\bin\Debug\netcoreapp3.1\p08_VectorPromedioClase.runtimeconfig.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p08_VectorPromedioClase\bin\Debug\netcoreapp3.1\p08_VectorPromedioClase.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p08_VectorPromedioClase\bin\Debug\netcoreapp3.1\p08_VectorPromedioClase.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p08_VectorPromedioClase\bin\Debug\netcoreapp3.1\p08_VectorPromedioClase.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p08_VectorPromedioClase\obj\Debug\netcoreapp3.1\p08_VectorPromedioClase.csprojAssemblyReference.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p08_VectorPromedioClase\obj\Debug\netcoreapp3.1\p08_VectorPromedioClase.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p08_VectorPromedioClase\obj\Debug\netcoreapp3.1\p08_VectorPromedioClase.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\ProyectosDAI\p08_VectorPromedioClase\obj\Debug\netcoreapp3.1\p08_VectorPromedioClase.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p08_VectorPromedioClase\obj\Debug\netcoreapp3.1\p08_VectorPromedioClase.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p08_VectorPromedioClase\obj\Debug\netcoreapp3.1\p08_VectorPromedioClase.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p08_VectorPromedioClase\obj\Debug\netcoreapp3.1\p08_VectorPromedioClase.genruntimeconfig.cache

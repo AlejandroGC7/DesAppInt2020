@@ -1,0 +1,13 @@
+C:\Users\Alejandro\Documents\ProyectosDAI\p09_VectorAleatorioClase\obj\Debug\netcoreapp3.1\p09_VectorAleatorioClase.csprojAssemblyReference.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p09_VectorAleatorioClase\obj\Debug\netcoreapp3.1\p09_VectorAleatorioClase.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p09_VectorAleatorioClase\obj\Debug\netcoreapp3.1\p09_VectorAleatorioClase.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\ProyectosDAI\p09_VectorAleatorioClase\obj\Debug\netcoreapp3.1\p09_VectorAleatorioClase.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p09_VectorAleatorioClase\bin\Debug\netcoreapp3.1\p09_VectorAleatorioClase.exe
+C:\Users\Alejandro\Documents\ProyectosDAI\p09_VectorAleatorioClase\bin\Debug\netcoreapp3.1\p09_VectorAleatorioClase.deps.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p09_VectorAleatorioClase\bin\Debug\netcoreapp3.1\p09_VectorAleatorioClase.runtimeconfig.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p09_VectorAleatorioClase\bin\Debug\netcoreapp3.1\p09_VectorAleatorioClase.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p09_VectorAleatorioClase\bin\Debug\netcoreapp3.1\p09_VectorAleatorioClase.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p09_VectorAleatorioClase\bin\Debug\netcoreapp3.1\p09_VectorAleatorioClase.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p09_VectorAleatorioClase\obj\Debug\netcoreapp3.1\p09_VectorAleatorioClase.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p09_VectorAleatorioClase\obj\Debug\netcoreapp3.1\p09_VectorAleatorioClase.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p09_VectorAleatorioClase\obj\Debug\netcoreapp3.1\p09_VectorAleatorioClase.genruntimeconfig.cache

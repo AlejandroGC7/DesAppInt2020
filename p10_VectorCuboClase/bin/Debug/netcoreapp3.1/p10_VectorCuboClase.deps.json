@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "p10_VectorCuboClase/1.0.0": {
+        "runtime": {
+          "p10_VectorCuboClase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p10_VectorCuboClase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

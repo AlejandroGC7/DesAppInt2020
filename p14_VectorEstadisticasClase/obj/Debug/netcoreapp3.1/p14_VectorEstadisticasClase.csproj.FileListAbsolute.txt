@@ -1,0 +1,13 @@
+C:\Users\Alejandro\Documents\ProyectosDAI\p14_VectorEstadisticasClase\bin\Debug\netcoreapp3.1\p14_VectorEstadisticasClase.exe
+C:\Users\Alejandro\Documents\ProyectosDAI\p14_VectorEstadisticasClase\bin\Debug\netcoreapp3.1\p14_VectorEstadisticasClase.deps.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p14_VectorEstadisticasClase\bin\Debug\netcoreapp3.1\p14_VectorEstadisticasClase.runtimeconfig.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p14_VectorEstadisticasClase\bin\Debug\netcoreapp3.1\p14_VectorEstadisticasClase.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p14_VectorEstadisticasClase\bin\Debug\netcoreapp3.1\p14_VectorEstadisticasClase.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p14_VectorEstadisticasClase\bin\Debug\netcoreapp3.1\p14_VectorEstadisticasClase.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p14_VectorEstadisticasClase\obj\Debug\netcoreapp3.1\p14_VectorEstadisticasClase.csprojAssemblyReference.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p14_VectorEstadisticasClase\obj\Debug\netcoreapp3.1\p14_VectorEstadisticasClase.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p14_VectorEstadisticasClase\obj\Debug\netcoreapp3.1\p14_VectorEstadisticasClase.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\ProyectosDAI\p14_VectorEstadisticasClase\obj\Debug\netcoreapp3.1\p14_VectorEstadisticasClase.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p14_VectorEstadisticasClase\obj\Debug\netcoreapp3.1\p14_VectorEstadisticasClase.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p14_VectorEstadisticasClase\obj\Debug\netcoreapp3.1\p14_VectorEstadisticasClase.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p14_VectorEstadisticasClase\obj\Debug\netcoreapp3.1\p14_VectorEstadisticasClase.genruntimeconfig.cache
