@@ -1,0 +1,13 @@
+C:\Users\Alejandro\Documents\ProyectosDAI\p17_Diccionario\bin\Debug\netcoreapp3.1\p17_Diccionario.exe
+C:\Users\Alejandro\Documents\ProyectosDAI\p17_Diccionario\bin\Debug\netcoreapp3.1\p17_Diccionario.deps.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p17_Diccionario\bin\Debug\netcoreapp3.1\p17_Diccionario.runtimeconfig.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p17_Diccionario\bin\Debug\netcoreapp3.1\p17_Diccionario.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p17_Diccionario\bin\Debug\netcoreapp3.1\p17_Diccionario.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p17_Diccionario\bin\Debug\netcoreapp3.1\p17_Diccionario.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p17_Diccionario\obj\Debug\netcoreapp3.1\p17_Diccionario.csprojAssemblyReference.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p17_Diccionario\obj\Debug\netcoreapp3.1\p17_Diccionario.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p17_Diccionario\obj\Debug\netcoreapp3.1\p17_Diccionario.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\ProyectosDAI\p17_Diccionario\obj\Debug\netcoreapp3.1\p17_Diccionario.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p17_Diccionario\obj\Debug\netcoreapp3.1\p17_Diccionario.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p17_Diccionario\obj\Debug\netcoreapp3.1\p17_Diccionario.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p17_Diccionario\obj\Debug\netcoreapp3.1\p17_Diccionario.genruntimeconfig.cache

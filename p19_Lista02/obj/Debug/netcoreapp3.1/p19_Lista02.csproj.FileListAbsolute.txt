@@ -1,0 +1,13 @@
+C:\Users\Alejandro\Documents\ProyectosDAI\p19_Lista02\bin\Debug\netcoreapp3.1\p19_Lista02.exe
+C:\Users\Alejandro\Documents\ProyectosDAI\p19_Lista02\bin\Debug\netcoreapp3.1\p19_Lista02.deps.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p19_Lista02\bin\Debug\netcoreapp3.1\p19_Lista02.runtimeconfig.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p19_Lista02\bin\Debug\netcoreapp3.1\p19_Lista02.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p19_Lista02\bin\Debug\netcoreapp3.1\p19_Lista02.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p19_Lista02\bin\Debug\netcoreapp3.1\p19_Lista02.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p19_Lista02\obj\Debug\netcoreapp3.1\p19_Lista02.csprojAssemblyReference.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p19_Lista02\obj\Debug\netcoreapp3.1\p19_Lista02.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p19_Lista02\obj\Debug\netcoreapp3.1\p19_Lista02.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\ProyectosDAI\p19_Lista02\obj\Debug\netcoreapp3.1\p19_Lista02.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p19_Lista02\obj\Debug\netcoreapp3.1\p19_Lista02.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p19_Lista02\obj\Debug\netcoreapp3.1\p19_Lista02.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p19_Lista02\obj\Debug\netcoreapp3.1\p19_Lista02.genruntimeconfig.cache
