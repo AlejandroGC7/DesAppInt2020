@@ -1,0 +1,13 @@
+C:\Users\Alejandro\Documents\ProyectosDAI\p21_Linq2\obj\Debug\netcoreapp3.1\p21_Linq2.csprojAssemblyReference.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p21_Linq2\obj\Debug\netcoreapp3.1\p21_Linq2.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p21_Linq2\obj\Debug\netcoreapp3.1\p21_Linq2.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\ProyectosDAI\p21_Linq2\obj\Debug\netcoreapp3.1\p21_Linq2.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p21_Linq2\bin\Debug\netcoreapp3.1\p21_Linq2.exe
+C:\Users\Alejandro\Documents\ProyectosDAI\p21_Linq2\bin\Debug\netcoreapp3.1\p21_Linq2.deps.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p21_Linq2\bin\Debug\netcoreapp3.1\p21_Linq2.runtimeconfig.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p21_Linq2\bin\Debug\netcoreapp3.1\p21_Linq2.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p21_Linq2\bin\Debug\netcoreapp3.1\p21_Linq2.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p21_Linq2\bin\Debug\netcoreapp3.1\p21_Linq2.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p21_Linq2\obj\Debug\netcoreapp3.1\p21_Linq2.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p21_Linq2\obj\Debug\netcoreapp3.1\p21_Linq2.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p21_Linq2\obj\Debug\netcoreapp3.1\p21_Linq2.genruntimeconfig.cache

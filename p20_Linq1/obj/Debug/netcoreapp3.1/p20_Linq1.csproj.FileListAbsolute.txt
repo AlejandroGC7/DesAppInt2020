@@ -1,0 +1,13 @@
+C:\Users\Alejandro\Documents\ProyectosDAI\p20_Linq1\bin\Debug\netcoreapp3.1\p20_Linq1.exe
+C:\Users\Alejandro\Documents\ProyectosDAI\p20_Linq1\bin\Debug\netcoreapp3.1\p20_Linq1.deps.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p20_Linq1\bin\Debug\netcoreapp3.1\p20_Linq1.runtimeconfig.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p20_Linq1\bin\Debug\netcoreapp3.1\p20_Linq1.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p20_Linq1\bin\Debug\netcoreapp3.1\p20_Linq1.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p20_Linq1\bin\Debug\netcoreapp3.1\p20_Linq1.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p20_Linq1\obj\Debug\netcoreapp3.1\p20_Linq1.csprojAssemblyReference.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p20_Linq1\obj\Debug\netcoreapp3.1\p20_Linq1.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p20_Linq1\obj\Debug\netcoreapp3.1\p20_Linq1.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\ProyectosDAI\p20_Linq1\obj\Debug\netcoreapp3.1\p20_Linq1.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p20_Linq1\obj\Debug\netcoreapp3.1\p20_Linq1.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p20_Linq1\obj\Debug\netcoreapp3.1\p20_Linq1.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p20_Linq1\obj\Debug\netcoreapp3.1\p20_Linq1.genruntimeconfig.cache

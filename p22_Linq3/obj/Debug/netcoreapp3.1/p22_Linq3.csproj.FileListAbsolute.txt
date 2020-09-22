@@ -1,0 +1,13 @@
+C:\Users\Alejandro\Documents\ProyectosDAI\p22_Linq3\bin\Debug\netcoreapp3.1\p22_Linq3.exe
+C:\Users\Alejandro\Documents\ProyectosDAI\p22_Linq3\bin\Debug\netcoreapp3.1\p22_Linq3.deps.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p22_Linq3\bin\Debug\netcoreapp3.1\p22_Linq3.runtimeconfig.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p22_Linq3\bin\Debug\netcoreapp3.1\p22_Linq3.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p22_Linq3\bin\Debug\netcoreapp3.1\p22_Linq3.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p22_Linq3\bin\Debug\netcoreapp3.1\p22_Linq3.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p22_Linq3\obj\Debug\netcoreapp3.1\p22_Linq3.csprojAssemblyReference.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p22_Linq3\obj\Debug\netcoreapp3.1\p22_Linq3.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p22_Linq3\obj\Debug\netcoreapp3.1\p22_Linq3.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\ProyectosDAI\p22_Linq3\obj\Debug\netcoreapp3.1\p22_Linq3.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p22_Linq3\obj\Debug\netcoreapp3.1\p22_Linq3.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p22_Linq3\obj\Debug\netcoreapp3.1\p22_Linq3.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p22_Linq3\obj\Debug\netcoreapp3.1\p22_Linq3.genruntimeconfig.cache
