@@ -45,7 +45,7 @@ namespace p19_Lista02
             mp.ForEach(p => Console.WriteLine(p.ToString()));
 
             //Buscar todas las ocurrencias de la palabra 'Tornillo'
-            Console.WriteLine("\nPiezas que contienen la palabra 'Tormillo':");
+            Console.WriteLine("\nPiezas que contienen la palabra 'Tornillo':");
             var pzas = mp.FindAll(p => p.Nombre.Contains("Tornillo"));
             pzas.ForEach(p => Console.WriteLine(p.ToString()));
 
