@@ -20,7 +20,7 @@ namespace p18_Lista01
                 "Introduccion a la Ingenieria"
             };
 
-            //agregar elementos a la lista
+            //Agregar elementos a la lista
             mats.Add("Matematicas Discretas");
             mats.Add("Compiladores e Interpretes");
             Imprime(mats);
@@ -47,7 +47,7 @@ namespace p18_Lista01
             string mat = mats.Find(x => x.Contains("Discretas"));
             Console.WriteLine(mat);
 
-            //Buxcar todas la materias optativas en la lista
+            //Buscar todas la materias optativas en la lista
             Console.WriteLine("\nMaterias optativas");
             var mo = mats.FindAll(x => x.Contains("(OP)"));
             Imprime(mo);
