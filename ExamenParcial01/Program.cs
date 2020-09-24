@@ -20,16 +20,16 @@ namespace ExamenParcial01
     {
         static void Main(string[] args)
         {
-            //Ingresar >> Datos generales de la red
-            Red mired =  new Red("Red PAtito S.A. de C.V.", "Mr. Pato Macdonald", "Av. Princeton 123, Orlando Florida");
+            //Ingresar >> Datos generales de la red (Empresa, Propietario, Domicilio)
+            Red mired =  new Red("Red Patito S.A. de C.V.", "Mr. Pato Macdonald", "Av. Princeton 123, Orlando Florida");
             
-            //Agregar nodos a la red
+            //Agregar nodos a la red (Ip, Tipo (servidor, equipoactivo, computadora), Puertos, Saltos, SO (windows, linux, ios, otro))
             mired.AgregarNodo(new Nodo("192.168.0.10","servidor",5,10,"linux"));
             mired.AgregarNodo(new Nodo("192.168.0.12","equipoactivo",2,12,"ios"));
             mired.AgregarNodo(new Nodo("192.168.0.20","computadora",8,5,"windows"));
             mired.AgregarNodo(new Nodo("192.168.0.15","servidor",10,22,"linux"));
 
-            //Agregar vulnerabilidades a cada nodo
+            //Agregar vulnerabilidades a cada nodo (Clave, Vendedor, Descripcion, Tipo (local, remota), Fecha)
             mired.Nodos[0].AgregarVulnerabilidad(new Vulnerabilidad("CVE-2015-1635","microsoft","HTTP.sys permite a atacantes remotos ejecutar código arbitrario",
                 "remota",new DateTime(2015,04,14)));
             mired.Nodos[0].AgregarVulnerabilidad(new Vulnerabilidad("CVE-2017-0004","microsoft","El servicio LSASS permite causar una denegación de servicio",
@@ -70,14 +70,13 @@ namespace ExamenParcial01
             Console.WriteLine($"Menor numero de saltos: {menor}");
 
             //Mostrar >> Vulnerabilidades por nodo
-            Console.WriteLine("\n>> Vulnerabilidades por nodo:");
+            Console.WriteLine("\n>> Vulnerabilidades por nodo:");  //Mostrar las vulnerabilidades por nodo
             foreach(Nodo nod in mired.Nodos){
-                Console.WriteLine($"\n> Ip: {nod.Ip}, Tipo: {nod.Tipo}");
-                //foreach(Vulnerabilidad vul in nod.Vulnerabilidades){
-                //    Console.WriteLine((nod.Vulnerabilidades is null)? "\nVulnerabilidades:":"\nNo tiene vulnerabilidades...");
-                Console.WriteLine("\nVulnerabilidades:");
+                Console.WriteLine($"\n> Ip: {nod.Ip}, Tipo: {nod.Tipo}");      //Mostrar el Ip y Tipo de nodo
+                Console.WriteLine((nod.Vulnerabilidades.Count()!=0)? "\nVulnerabilidades:":"\nNo tiene vulnerabilidades...");   //Verificar si el nodo actual tiene vulnerabilidades o no
                 foreach(Vulnerabilidad vul in nod.Vulnerabilidades){
-                    double antiguedad = ((DateTime.Now - vul.Fecha).TotalDays)/365;
+                    double antiguedad = ((DateTime.Now - vul.Fecha).TotalDays)/365;     //Calcular la antiguedad de cada vulnerabilidad (fecha actual - fecha vulnerabilidad (años))
+                    //Imprimir los datos generales de las vulnerabilidades por cada nodo
                     Console.WriteLine($"\nClave: {vul.Clave}, Vendedor: {vul.Vendedor}, Descripcion: {vul.Descripcion}, Tipo: {vul.Tipo}, Fecha: {vul.Fecha}, Antiguedad: {(int)antiguedad}");
                 }
                 Console.WriteLine();
