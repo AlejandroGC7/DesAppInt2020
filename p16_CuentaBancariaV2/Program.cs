@@ -17,7 +17,7 @@ namespace p15_CuentaBancariaV1
             mibanco.AgregarCliente(new Cliente("Carlos Castaneda"));
             mibanco.AgregarCliente(new Cliente("Celina Reyes"));
             mibanco.AgregarCliente(new Cliente("Diana Escareño"));
-            mibanco.AgregarCliente(new Cliente("Abraham Davila"));
+            mibanco.AgregarCliente(new Cliente("Obed Davila"));
             
             mibanco.Clientes[0].AgregarCuenta(new CuentaDeAhorro(500,0.10));
             mibanco.Clientes[0].AgregarCuenta(new CuentaDeCheques(1500,300));
