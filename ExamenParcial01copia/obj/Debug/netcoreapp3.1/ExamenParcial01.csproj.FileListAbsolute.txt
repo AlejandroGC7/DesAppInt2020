@@ -1,0 +1,13 @@
+C:\Users\Alejandro\Documents\ProyectosDAI\ExamenParcial01\bin\Debug\netcoreapp3.1\ExamenParcial01.exe
+C:\Users\Alejandro\Documents\ProyectosDAI\ExamenParcial01\bin\Debug\netcoreapp3.1\ExamenParcial01.deps.json
+C:\Users\Alejandro\Documents\ProyectosDAI\ExamenParcial01\bin\Debug\netcoreapp3.1\ExamenParcial01.runtimeconfig.json
+C:\Users\Alejandro\Documents\ProyectosDAI\ExamenParcial01\bin\Debug\netcoreapp3.1\ExamenParcial01.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\ProyectosDAI\ExamenParcial01\bin\Debug\netcoreapp3.1\ExamenParcial01.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\ExamenParcial01\bin\Debug\netcoreapp3.1\ExamenParcial01.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\ExamenParcial01\obj\Debug\netcoreapp3.1\ExamenParcial01.csprojAssemblyReference.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\ExamenParcial01\obj\Debug\netcoreapp3.1\ExamenParcial01.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\ExamenParcial01\obj\Debug\netcoreapp3.1\ExamenParcial01.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\ProyectosDAI\ExamenParcial01\obj\Debug\netcoreapp3.1\ExamenParcial01.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\ExamenParcial01\obj\Debug\netcoreapp3.1\ExamenParcial01.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\ExamenParcial01\obj\Debug\netcoreapp3.1\ExamenParcial01.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\ExamenParcial01\obj\Debug\netcoreapp3.1\ExamenParcial01.genruntimeconfig.cache
