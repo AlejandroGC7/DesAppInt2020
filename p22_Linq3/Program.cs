@@ -19,7 +19,7 @@ namespace p22_Linq3
                 Califs = new List<float>{97,92,81,60}},
                 new Estudiante{Matricula=111, Nombre="Maria Lopez", Domicilio="Principal 126, Fresnillo", 
                 Califs = new List<float>{75,84,91,39}},
-                new Estudiante{Matricula=444, Nombre="Rodrigo Mata", Domicilio="Luis Moya 21, Rio Grande", 
+                new Estudiante{Matricula=444, Nombre="Rodrigo Mata", Domicilio="Luis Moya 31, Rio Grande", 
                 Califs = new List<float>{88,94,65,91}},
                 new Estudiante{Matricula=444, Nombre="Juan Perez", Domicilio="Juan de Tolosa 22, Zacatecas", 
                 Califs = new List<float>{70,90,60,40}}
