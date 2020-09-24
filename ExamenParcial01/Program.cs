@@ -57,7 +57,7 @@ namespace ExamenParcial01
             //Mostrar >> Datos generales de los nodos y el cálculo de vilnerabilidades en cada nodo
             Console.WriteLine("\n>> Datos generales de los nodos:\n");
             foreach(Nodo nod in mired.Nodos){
-                Console.WriteLine($"Ip: {nod.Ip}, Toipo: {nod.Tipo}, Puertos: {nod.Puertos}, Saltos: {nod.Saltos}, SO: {nod.SO}, TotVul: {nod.Vulnerabilidades.Count()}");
+                Console.WriteLine($"Ip: {nod.Ip}, Tipo: {nod.Tipo}, Puertos: {nod.Puertos}, Saltos: {nod.Saltos}, SO: {nod.SO}, TotVul: {nod.Vulnerabilidades.Count()}");
             }
 
             //Filtrar el mayor número de saltos

@@ -69,7 +69,5 @@ namespace ExamenParcial01
         public void AgregarVulnerabilidad(Vulnerabilidad vul){
             vulnerabilidades.Add(vul);
         }
-        public override string ToString() =>
-            $"Ip:{Ip}, Tipo:{Tipo}, Puertos:{Puertos}, Saltos:{Saltos}, SO:{SO}";
     }
 }
