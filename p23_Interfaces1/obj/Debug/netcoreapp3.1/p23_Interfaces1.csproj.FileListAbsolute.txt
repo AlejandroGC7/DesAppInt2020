@@ -1,0 +1,13 @@
+C:\Users\Alejandro\Documents\ProyectosDAI\p23_Interfaces1\bin\Debug\netcoreapp3.1\p23_Interfaces1.exe
+C:\Users\Alejandro\Documents\ProyectosDAI\p23_Interfaces1\bin\Debug\netcoreapp3.1\p23_Interfaces1.deps.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p23_Interfaces1\bin\Debug\netcoreapp3.1\p23_Interfaces1.runtimeconfig.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p23_Interfaces1\bin\Debug\netcoreapp3.1\p23_Interfaces1.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p23_Interfaces1\bin\Debug\netcoreapp3.1\p23_Interfaces1.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p23_Interfaces1\bin\Debug\netcoreapp3.1\p23_Interfaces1.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p23_Interfaces1\obj\Debug\netcoreapp3.1\p23_Interfaces1.csprojAssemblyReference.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p23_Interfaces1\obj\Debug\netcoreapp3.1\p23_Interfaces1.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p23_Interfaces1\obj\Debug\netcoreapp3.1\p23_Interfaces1.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\ProyectosDAI\p23_Interfaces1\obj\Debug\netcoreapp3.1\p23_Interfaces1.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p23_Interfaces1\obj\Debug\netcoreapp3.1\p23_Interfaces1.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p23_Interfaces1\obj\Debug\netcoreapp3.1\p23_Interfaces1.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p23_Interfaces1\obj\Debug\netcoreapp3.1\p23_Interfaces1.genruntimeconfig.cache
