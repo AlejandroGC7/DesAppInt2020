@@ -1,0 +1,13 @@
+C:\Users\Alejandro\Documents\ProyectosDAI\p28_Delegados4\bin\Debug\netcoreapp3.1\p28_Delegados4.exe
+C:\Users\Alejandro\Documents\ProyectosDAI\p28_Delegados4\bin\Debug\netcoreapp3.1\p28_Delegados4.deps.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p28_Delegados4\bin\Debug\netcoreapp3.1\p28_Delegados4.runtimeconfig.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p28_Delegados4\bin\Debug\netcoreapp3.1\p28_Delegados4.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p28_Delegados4\bin\Debug\netcoreapp3.1\p28_Delegados4.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p28_Delegados4\bin\Debug\netcoreapp3.1\p28_Delegados4.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p28_Delegados4\obj\Debug\netcoreapp3.1\p28_Delegados4.csprojAssemblyReference.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p28_Delegados4\obj\Debug\netcoreapp3.1\p28_Delegados4.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p28_Delegados4\obj\Debug\netcoreapp3.1\p28_Delegados4.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\ProyectosDAI\p28_Delegados4\obj\Debug\netcoreapp3.1\p28_Delegados4.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p28_Delegados4\obj\Debug\netcoreapp3.1\p28_Delegados4.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p28_Delegados4\obj\Debug\netcoreapp3.1\p28_Delegados4.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p28_Delegados4\obj\Debug\netcoreapp3.1\p28_Delegados4.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Alejandro\Documents\ProyectosDAI\p26_Delegados2\bin\Debug\netcoreapp3.1\p26_Delegados2.exe
+C:\Users\Alejandro\Documents\ProyectosDAI\p26_Delegados2\bin\Debug\netcoreapp3.1\p26_Delegados2.deps.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p26_Delegados2\bin\Debug\netcoreapp3.1\p26_Delegados2.runtimeconfig.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p26_Delegados2\bin\Debug\netcoreapp3.1\p26_Delegados2.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\ProyectosDAI\p26_Delegados2\bin\Debug\netcoreapp3.1\p26_Delegados2.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p26_Delegados2\bin\Debug\netcoreapp3.1\p26_Delegados2.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p26_Delegados2\obj\Debug\netcoreapp3.1\p26_Delegados2.csprojAssemblyReference.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p26_Delegados2\obj\Debug\netcoreapp3.1\p26_Delegados2.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p26_Delegados2\obj\Debug\netcoreapp3.1\p26_Delegados2.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\ProyectosDAI\p26_Delegados2\obj\Debug\netcoreapp3.1\p26_Delegados2.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\ProyectosDAI\p26_Delegados2\obj\Debug\netcoreapp3.1\p26_Delegados2.dll
+C:\Users\Alejandro\Documents\ProyectosDAI\p26_Delegados2\obj\Debug\netcoreapp3.1\p26_Delegados2.pdb
+C:\Users\Alejandro\Documents\ProyectosDAI\p26_Delegados2\obj\Debug\netcoreapp3.1\p26_Delegados2.genruntimeconfig.cache
