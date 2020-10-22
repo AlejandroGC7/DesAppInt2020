@@ -1,0 +1,76 @@
+@model IEnumerable<HotelAGC.Models.Payment>
+
+@{
+    ViewData["Title"] = "Payments";
+}
+
+<h1>Payments</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<form asp-action="Index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            Find by Customer Forenames: <input type="text" name="SearchString" />
+            <input type="submit" value="Search" /> |
+            <a asp-action="Index">Back to Full List</a>
+        </p>
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PaymentID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PaymentAmount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PaymentComments)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PaymentMethod)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Customer)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Booking)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PaymentID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PaymentAmount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PaymentComments)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PaymentMethod.paymentMethod)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Customer.FullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Booking.DateBookingMade)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.PaymentID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.PaymentID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.PaymentID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
