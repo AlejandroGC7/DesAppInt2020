@@ -1,0 +1,72 @@
+@model IEnumerable<HumanResourcesAGC.Models.Job>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Jobs</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<form asp-action="Index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            Find by job title: <input type="text" name="SearchString" />
+            <input type="submit" value="Search" /> |
+            <a asp-action="Index">Back to Full List</a>
+        </p>
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.JobTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Difficulty)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MinSalary)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaxSalary)
+            </th>
+            <th>Employees</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.JobTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Difficulty)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MinSalary)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaxSalary)
+            </td>
+            <td>
+                @{
+                    foreach(var e in item.Employees){
+                        @e.EmployeeID @: @e.FullName <br />
+                    }
+                }
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.JobID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.JobID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.JobID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
