@@ -1,9 +1,11 @@
 using HumanResourcesAGC.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
 
 namespace HumanResourcesAGC.Data
 {
-    public class HResourceContext : DbContext
+    public class HResourceContext : IdentityDbContext<User>
     {
         public HResourceContext(DbContextOptions<HResourceContext> options) : base(options)
         {
@@ -20,6 +22,7 @@ namespace HumanResourcesAGC.Data
         //API Fluida
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<Country>().ToTable("Country");
             modelBuilder.Entity<Department>().ToTable("Department");
             modelBuilder.Entity<Employee>().ToTable("Employee");

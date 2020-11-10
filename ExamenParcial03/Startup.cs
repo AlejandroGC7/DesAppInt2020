@@ -11,6 +11,8 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
 using HumanResourcesAGC.Models;
 using HumanResourcesAGC.Data;
+using Microsoft.AspNetCore.Mvc.Authorization;
+using Microsoft.AspNetCore.Authorization;
 
 namespace HumanResourcesAGC
 {
@@ -29,6 +31,18 @@ namespace HumanResourcesAGC
             services.AddDbContext<HResourceContext>(options =>
             options.UseSqlite(Configuration.GetConnectionString("DefaultConnection"))); 
             
+            services.AddDefaultIdentity<User>(options => options.SignIn.RequireConfirmedAccount = false)
+                    .AddEntityFrameworkStores<HResourceContext>();
+
+            services.AddMvc(o => 
+            {
+                var policy = new AuthorizationPolicyBuilder()
+                    .RequireAuthenticatedUser()
+                    .Build();
+                o.Filters.Add(new AuthorizeFilter(policy));
+            });
+
+            services.AddRazorPages();
             services.AddControllersWithViews();
         }
 
@@ -49,7 +63,8 @@ namespace HumanResourcesAGC
             app.UseStaticFiles();
 
             app.UseRouting();
-
+            
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
@@ -57,6 +72,8 @@ namespace HumanResourcesAGC
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
+                
+                endpoints.MapRazorPages();
             });
         }
     }

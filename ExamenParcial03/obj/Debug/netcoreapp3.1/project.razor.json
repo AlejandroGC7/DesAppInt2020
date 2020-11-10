@@ -14417,6 +14417,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Alejandro\\Documents\\ProyectosDAI\\ExamenParcial03\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Alejandro\\Documents\\ProyectosDAI\\ExamenParcial03\\Views\\Shared\\_LoginPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Alejandro\\Documents\\ProyectosDAI\\ExamenParcial03\\Views\\Departments\\Details.cshtml",
       "TargetPath": "Views\\Departments\\Details.cshtml",
       "FileKind": "mvc"
@@ -14437,6 +14447,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Alejandro\\Documents\\ProyectosDAI\\ExamenParcial03\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Alejandro\\Documents\\ProyectosDAI\\ExamenParcial03\\Views\\JobHistories\\Edit.cshtml",
       "TargetPath": "Views\\JobHistories\\Edit.cshtml",
       "FileKind": "mvc"
@@ -14447,8 +14462,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Alejandro\\Documents\\ProyectosDAI\\ExamenParcial03\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Alejandro\\Documents\\ProyectosDAI\\ExamenParcial03\\Views\\Regions\\Create.cshtml",
       "TargetPath": "Views\\Regions\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Alejandro\\Documents\\ProyectosDAI\\ExamenParcial03\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14514,6 +14539,11 @@
     {
       "FilePath": "c:\\Users\\Alejandro\\Documents\\ProyectosDAI\\ExamenParcial03\\Views\\Countries\\Details.cshtml",
       "TargetPath": "Views\\Countries\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Alejandro\\Documents\\ProyectosDAI\\ExamenParcial03\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14584,6 +14614,16 @@
     {
       "FilePath": "c:\\Users\\Alejandro\\Documents\\ProyectosDAI\\ExamenParcial03\\Views\\JobHistories\\Index.cshtml",
       "TargetPath": "Views\\JobHistories\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Alejandro\\Documents\\ProyectosDAI\\ExamenParcial03\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Alejandro\\Documents\\ProyectosDAI\\ExamenParcial03\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
