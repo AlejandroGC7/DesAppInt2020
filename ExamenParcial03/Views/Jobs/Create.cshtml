@@ -19,7 +19,9 @@
             </div>
             <div class="form-group">
                 <label asp-for="Difficulty" class="control-label"></label>
-                <input asp-for="Difficulty" class="form-control" />
+                <select asp-for="Difficulty" class="form-control" asp-items="Html.GetEnumSelectList<Difficulty>()">
+                    <option value="">--Select Difficulty--</option>
+                </select>
                 <span asp-validation-for="Difficulty" class="text-danger"></span>
             </div>
             <div class="form-group">

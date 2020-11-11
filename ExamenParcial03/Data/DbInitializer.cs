@@ -21,14 +21,14 @@ namespace HumanResourcesAGC.Data
         //Region
             var regions = new Region[]
             {
-                new Region { RegionID = 1, RegionName = RegionName.Africa },
-                new Region { RegionID = 2, RegionName = RegionName.Asia },
-                new Region { RegionID = 3, RegionName = RegionName.Europa },
-                new Region { RegionID = 4, RegionName = RegionName.Latinoamerica },
-                new Region { RegionID = 5, RegionName = RegionName.Norteamerica },
-                new Region { RegionID = 6, RegionName = RegionName.Sudamerica },
-                new Region { RegionID = 7, RegionName = RegionName.Oceania },
-                new Region { RegionID = 8, RegionName = RegionName.Otra }
+                new Region { RegionID = 1, RegionName = "Africa" },
+                new Region { RegionID = 2, RegionName = "Asia" },
+                new Region { RegionID = 3, RegionName = "Europa" },
+                new Region { RegionID = 4, RegionName = "Latinoamerica" },
+                new Region { RegionID = 5, RegionName = "Norteamerica" },
+                new Region { RegionID = 6, RegionName = "Sudamerica" },
+                new Region { RegionID = 7, RegionName = "Oceania" },
+                new Region { RegionID = 8, RegionName = "Otra" }
             };
 
             foreach (Region r in regions)
@@ -41,25 +41,25 @@ namespace HumanResourcesAGC.Data
             var countries = new Country[]
             {
                 new Country { ISO = "MX", CountryName = "Mexico",
-                    RegionID  = regions.Single( i => i.RegionName == RegionName.Latinoamerica).RegionID },
+                    RegionID  = regions.Single( i => i.RegionName == "Latinoamerica").RegionID },
                 new Country { ISO = "BR", CountryName = "Brasil",
-                    RegionID  = regions.Single( i => i.RegionName == RegionName.Sudamerica).RegionID },
+                    RegionID  = regions.Single( i => i.RegionName == "Sudamerica").RegionID },
                 new Country { ISO = "GB", CountryName = "Reino Unido",
-                    RegionID  = regions.Single( i => i.RegionName == RegionName.Europa).RegionID },
+                    RegionID  = regions.Single( i => i.RegionName == "Europa").RegionID },
                 new Country { ISO = "AU", CountryName = "Australia",
-                    RegionID  = regions.Single( i => i.RegionName == RegionName.Oceania).RegionID },
+                    RegionID  = regions.Single( i => i.RegionName == "Oceania").RegionID },
                 new Country { ISO = "US", CountryName = "Estados Unidos de America",
-                    RegionID  = regions.Single( i => i.RegionName == RegionName.Norteamerica).RegionID },
+                    RegionID  = regions.Single( i => i.RegionName == "Norteamerica").RegionID },
                 new Country { ISO = "CN", CountryName = "China",
-                    RegionID  = regions.Single( i => i.RegionName == RegionName.Asia).RegionID },
+                    RegionID  = regions.Single( i => i.RegionName == "Asia").RegionID },
                 new Country { ISO = "JP", CountryName = "Japon",
-                    RegionID  = regions.Single( i => i.RegionName == RegionName.Asia).RegionID },
+                    RegionID  = regions.Single( i => i.RegionName == "Asia").RegionID },
                 new Country { ISO = "PT", CountryName = "Portugal",
-                    RegionID  = regions.Single( i => i.RegionName == RegionName.Europa).RegionID },
+                    RegionID  = regions.Single( i => i.RegionName == "Europa").RegionID },
                 new Country { ISO= "EG", CountryName = "Egipto",
-                    RegionID  = regions.Single( i => i.RegionName == RegionName.Africa).RegionID },
+                    RegionID  = regions.Single( i => i.RegionName == "Africa").RegionID },
                 new Country { ISO = "SN", CountryName = "Senegal",
-                    RegionID  = regions.Single( i => i.RegionName == RegionName.Africa).RegionID }
+                    RegionID  = regions.Single( i => i.RegionName == "Africa").RegionID }
             };
 
             foreach (Country c in countries)
@@ -157,21 +157,21 @@ namespace HumanResourcesAGC.Data
         //Job
             var jobs = new Job[]
             {
-                new Job { JobTitle = "Administrative Assistant", Difficulty = 3, MinSalary = 14500, MaxSalary = 20000 },
-                new Job { JobTitle = "Administrative Coordinator", Difficulty = 4, MinSalary = 15600, MaxSalary = 22000 },
-                new Job { JobTitle = "Administrative Director", Difficulty = 5, MinSalary = 2100, MaxSalary = 28900 },
-                new Job { JobTitle = "Marketing Assistant", Difficulty = 3, MinSalary = 11500, MaxSalary = 13000 },
-                new Job { JobTitle = "Shipping Clerk", Difficulty = 2, MinSalary = 8500, MaxSalary = 10000 },
-                new Job { JobTitle = "Packer", Difficulty = 2, MinSalary = 8000, MaxSalary = 10000 },
-                new Job { JobTitle = "Programer", Difficulty = 4, MinSalary = 21400, MaxSalary = 26000 },
-                new Job { JobTitle = "Database Administrator", Difficulty = 5, MinSalary = 24500, MaxSalary = 30000 },
-                new Job { JobTitle = "Account Manager", Difficulty = 4, MinSalary = 12300, MaxSalary = 15000 },
-                new Job { JobTitle = "Sales Operations Manager", Difficulty = 3, MinSalary = 13000, MaxSalary = 14000 },
-                new Job { JobTitle = "Account Executive", Difficulty = 4, MinSalary = 9700, MaxSalary = 12000 },
-                new Job { JobTitle = "Executive HouseKeeper", Difficulty = 3, MinSalary = 10500, MaxSalary = 16000 },
-                new Job { JobTitle = "Accounting Manager", Difficulty = 4, MinSalary = 13500, MaxSalary = 16000 },
-                new Job { JobTitle = "Accounting Assistant", Difficulty = 3, MinSalary = 11000, MaxSalary = 12500 },
-                new Job { JobTitle = "Contracting Manager", Difficulty = 4, MinSalary = 12500, MaxSalary = 14000 }
+                new Job { JobTitle = "Administrative Assistant", Difficulty = Difficulty.Media, MinSalary = 14500, MaxSalary = 20000 },
+                new Job { JobTitle = "Administrative Coordinator", Difficulty = Difficulty.Alta, MinSalary = 15600, MaxSalary = 22000 },
+                new Job { JobTitle = "Administrative Director", Difficulty = Difficulty.Alta, MinSalary = 2100, MaxSalary = 28900 },
+                new Job { JobTitle = "Marketing Assistant", Difficulty = Difficulty.Media, MinSalary = 11500, MaxSalary = 13000 },
+                new Job { JobTitle = "Shipping Clerk", Difficulty = Difficulty.Baja, MinSalary = 8500, MaxSalary = 10000 },
+                new Job { JobTitle = "Packer", Difficulty = Difficulty.Baja, MinSalary = 8000, MaxSalary = 10000 },
+                new Job { JobTitle = "Programer", Difficulty = Difficulty.Alta, MinSalary = 21400, MaxSalary = 26000 },
+                new Job { JobTitle = "Database Administrator", Difficulty = Difficulty.Alta, MinSalary = 24500, MaxSalary = 30000 },
+                new Job { JobTitle = "Account Manager", Difficulty = Difficulty.Alta, MinSalary = 12300, MaxSalary = 15000 },
+                new Job { JobTitle = "Sales Operations Manager", Difficulty = Difficulty.Media, MinSalary = 13000, MaxSalary = 14000 },
+                new Job { JobTitle = "Account Executive", Difficulty = Difficulty.Alta, MinSalary = 9700, MaxSalary = 12000 },
+                new Job { JobTitle = "Executive HouseKeeper", Difficulty = Difficulty.Media, MinSalary = 10500, MaxSalary = 16000 },
+                new Job { JobTitle = "Accounting Manager", Difficulty = Difficulty.Alta, MinSalary = 13500, MaxSalary = 16000 },
+                new Job { JobTitle = "Accounting Assistant", Difficulty = Difficulty.Media, MinSalary = 11000, MaxSalary = 12500 },
+                new Job { JobTitle = "Contracting Manager", Difficulty = Difficulty.Alta, MinSalary = 12500, MaxSalary = 14000 }
             };
 
             foreach (Job j in jobs)

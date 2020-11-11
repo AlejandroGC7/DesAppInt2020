@@ -5,10 +5,6 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace HumanResourcesAGC.Models
 {
-    public enum RegionName {
-        Africa, Asia, Europa, Latinoamerica, Norteamerica, Sudamerica, Oceania, Otra
-    }
-
     public class Region{
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.None)]
@@ -17,7 +13,7 @@ namespace HumanResourcesAGC.Models
         [Required]
         [Display(Name="Region")]
         [StringLength(30)]
-        public RegionName RegionName {get; set;}
+        public string RegionName {get; set;}
 
         //Relación uno a muchos con la tabla Country
         public ICollection<Country> Countries {get; set;}

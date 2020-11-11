@@ -5,6 +5,9 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace HumanResourcesAGC.Models
 {
+    public enum Difficulty {
+        Alta, Media, Baja
+    }
     public class Job{
         [Key]
         public int JobID {get; set;}
@@ -13,8 +16,7 @@ namespace HumanResourcesAGC.Models
         [StringLength(50)]
         public string JobTitle {get; set;}
         [Required]
-        [Range(1,5)]
-        public int Difficulty {get; set;}
+        public Difficulty Difficulty {get; set;}
         [Required]
         [Display(Name="Minimum Salary")]
         [DataType(DataType.Currency)]
