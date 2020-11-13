@@ -94,7 +94,7 @@ namespace FootballAGC.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("PositionID,Position,PositionDescription")] PlayerPosition playerPosition)
+        public async Task<IActionResult> Edit(int id, [Bind("PlayerPositionID,Position,PositionDescription")] PlayerPosition playerPosition)
         {
             if (id != playerPosition.PlayerPositionID)
             {
