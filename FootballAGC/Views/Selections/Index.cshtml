@@ -1,0 +1,60 @@
+@model IEnumerable<FootballAGC.Models.Selection>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Selections</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<form asp-action="Index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            Find by selection name: <input type="text" name="SearchString" />
+            <input type="submit" value="Search" /> |
+            <a asp-action="Index">Back to Full List</a>
+        </p>
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.SelectionID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SelectionName)
+            </th>
+            <th>Players</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.SelectionID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SelectionName)
+            </td>
+            <td>
+                @{
+                    foreach(var p in item.Players){
+                        @p.PlayerID @: @p.FullName <br />
+                    }
+                }
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.SelectionID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.SelectionID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.SelectionID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

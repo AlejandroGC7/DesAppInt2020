@@ -1,0 +1,57 @@
+@model IEnumerable<FootballAGC.Models.PlayerFixture>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Player Fixtures</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<form asp-action="Index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            Find by player name: <input type="text" name="SearchString" />
+            <input type="submit" value="Search" /> |
+            <a asp-action="Index">Back to Full List</a>
+        </p>
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.GoalsScored)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Player)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fixture)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.GoalsScored)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Player.FullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fixture.FixtureDescription)
+            </td>
+            <td>
+                @Html.ActionLink("Details", "Details", new { id=item.FixtureID, id2=item.PlayerID }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.FixtureID, id2=item.PlayerID })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

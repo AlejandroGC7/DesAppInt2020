@@ -1,0 +1,82 @@
+@model IEnumerable<FootballAGC.Models.Fixture>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Fixtures</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<form asp-action="Index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            Find by competition name: <input type="text" name="SearchString" />
+            <input type="submit" value="Search" /> |
+            <a asp-action="Index">Back to Full List</a>
+        </p>
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FixtureID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FixtureDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FixtureDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FixtureTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HomeTeam)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AwayTeam)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Competition)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FixtureID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FixtureDescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FixtureDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FixtureTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HomeTeam.TeamName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AwayTeam.TeamName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Competition.CompetitionName)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.FixtureID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.FixtureID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.FixtureID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
